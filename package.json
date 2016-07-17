@@ -1,0 +1,14 @@
+{
+  "name": "axios-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "run": "server.js",
+    "run-client": "node client.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.13.1"
+  }
+}
